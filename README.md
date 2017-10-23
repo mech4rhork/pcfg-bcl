@@ -1,8 +1,6 @@
 # pcfg-bcl
 Implementation of PCFG-BCL by Kewei Tu and Vasant Honavar \[1\].
 
-\[1\] Tu, K., & Honavar, V. (2008, September). Unsupervised learning of probabilistic context-free grammar using iterative biclustering. In _ICGI_ (pp. 224-237). [pdf](http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1241&context=cs_techreports)
-
 ## Usage
 ```
 tugram.py learning_corpus generated_grammar
@@ -29,3 +27,6 @@ tugram.py learning_corpus generated_grammar
 * numpy
 * pandas
 * coclust
+
+## References
+\[1\] Tu, K., & Honavar, V. (2008, September). Unsupervised learning of probabilistic context-free grammar using iterative biclustering. In _ICGI_ (pp. 224-237). [pdf](http://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=1241&context=cs_techreports)
