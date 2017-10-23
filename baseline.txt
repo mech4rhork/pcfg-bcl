@@ -1,0 +1,31 @@
+a circle touches a circle. a circle touches a square. a circle touches a triangle.
+a circle touches the circle. a circle touches the square. a circle touches the triangle.
+a circle covers a circle. a circle covers a square. a circle covers a triangle.
+a circle covers the circle. a circle covers the square. a circle covers the triangle.
+a circle rolls. a circle bounces. a square touches a circle. a square touches a square.
+
+a square touches a triangle. a square touches the circle. a square touches the square.
+a square touches the triangle. a square covers a circle. a square covers a square.
+a square covers a triangle. a square covers the circle. a square covers the square.
+a square covers the triangle. a square rolls. a square bounces. a triangle touches a circle.
+a triangle touches a square. a triangle touches a triangle. a triangle touches the circle.
+
+a triangle touches the square. a triangle touches the triangle. a triangle covers a circle.
+a triangle covers a square. a triangle covers a triangle. a triangle covers the circle.
+a triangle covers the square. a triangle covers the triangle. a triangle rolls.
+a triangle bounces. the circle touches a circle. the circle touches a square.
+the circle touches a triangle. the circle touches the circle. the circle touches the square.
+the circle touches the triangle. the circle covers a circle. the circle covers a square.
+the circle covers a triangle. the circle covers the circle. the circle covers the square.
+
+the circle covers the triangle. the circle rolls. the circle bounces. the square touches a circle.
+the square touches a square. the square touches a triangle. the square touches the circle.
+the square touches the square. the square touches the triangle. the square covers a circle.
+the square covers a square. the square covers a triangle. the square covers the circle.
+the square covers the square. the square covers the triangle. the square rolls.
+the square bounces. the triangle touches a circle. the triangle touches a square.
+the triangle touches a triangle. the triangle touches the circle. the triangle touches the square.
+
+the triangle touches the triangle. the triangle covers a circle. the triangle covers a square.
+the triangle covers a triangle. the triangle covers the circle. the triangle covers the square.
+the triangle covers the triangle. the triangle rolls. the triangle bounces.

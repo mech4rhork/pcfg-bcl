@@ -1,0 +1,21 @@
+Romeo est un petit chat.
+Romeo porte un chapeau.
+Romeo roule sur son velo.
+
+Romeo roule sur son velo.
+Romeo roule sur son tricycle.
+Romeo roule sur sa moto.
+Romeo roule sur son skateboard.
+
+Romeo roule dans sa voiture.
+Romeo roule dans son camion.
+Romeo roule sur sa moto.
+
+Romeo est un petit chien.
+Romeo est un gros chat.
+Romeo est un gros chien.
+Romeo est un petit chat.
+
+Romeo porte un chapeau.
+Romeo porte une veste.
+Romeo porte une chemise.
