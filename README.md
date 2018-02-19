@@ -1,6 +1,8 @@
 # pcfg-bcl
 Implementation of PCFG-BCL by Kewei Tu and Vasant Honavar \[1\].
 
+PCFG-BCL is an unsupervised algorithm that learns a probabilistic context-free grammar (PCFG) from positive samples. The algorithm acquires rules of an unknown PCFG through iterative biclustering of bigrams in the training corpus.
+
 ## Usage
 ```
 tugram.py learning_corpus generated_grammar
